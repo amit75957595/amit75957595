@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Amit kumar
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning angular
+- 💞️ I’m looking to collaborate on angular project
+- 📫 you can reach me at amit.ldh.pcte@gmail.com
